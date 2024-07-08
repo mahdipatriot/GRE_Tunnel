@@ -8,7 +8,7 @@ This script provides a menu-driven interface to Run a simple GRE Tunnel.
 - **Show Service Status:** Check the current status of the Waterwall service.
 - **Restart Service:** Restart the Waterwall service.
 - **Check Connection:** Check the Connection between 2 pairs
-- **Source:** [mahdipatriot/GRE_Tunnel](https://github.com/mahdipatriot/Gre_Tunnel)
+
 
 ## Installation
 
